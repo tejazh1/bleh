@@ -190,6 +190,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: showroom
       objectReference: {fileID: 0}
+    - target: {fileID: 1344123698560574276, guid: 154d42e04962c634cbaae005fd66dbcd,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bea68bb9a0831934fa6c8b2cc4fe83cd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
